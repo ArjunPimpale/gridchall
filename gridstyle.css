@@ -106,7 +106,7 @@ body{
 #box5 img{
     border-color: purple;
 }
-@media only screen and (max-width:800px)
+@media only screen and (max-width:735px)
 {
     body{
         height:600vh;
